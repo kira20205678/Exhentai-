@@ -1,4 +1,4 @@
-# Exhentai-
+# Exhentai-里站共享账号
 帮助没有里站账号的朋友使用cookie快速进入里站
 
 账号说明：
@@ -8,6 +8,7 @@
 如果需要私人独立账户还请关注我的X账号：https://x.com/Ehentai_KIRA
 
 更新时间：2026/2/1
+
 账号：
 ipb_member_id: 9435543
 ipb_pass_hash: fbbf687044db7d902efafa02cff4449e
