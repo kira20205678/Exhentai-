@@ -7,9 +7,12 @@
 
 如果需要私人独立账户还请关注我的X账号：https://x.com/Ehentai_KIRA
 
-更新时间：2026/2/1
+更新时间：2026/4/20
 
 账号：
-ipb_member_id: 9435543
-ipb_pass_hash: fbbf687044db7d902efafa02cff4449e
-igneous: d719bu17skhzhr1og
+ipb_member_id: 9507547
+ipb_pass_hash: 9f018ef858013d910629c3e81a0101ce
+igneous: aqd0l9i1us1ygj1pi
+
+大家太热情了感觉上传没几天账号就被封了，这么多人吗，还请不要屏蔽标签，账号被封后没法移除屏蔽，会导致很多小伙伴看不了自己想看的内容
+工作比较忙不经常看消息，更新不勤快请见谅
